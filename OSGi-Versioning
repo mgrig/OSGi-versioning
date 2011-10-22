@@ -1,0 +1,3 @@
+# OSGi Versioning Workflow
+## Abstract
+We attempt to describe a _typical_ workflow for handling OSGi versioning in a development environment involving several developers, with individual workspaces, a version control system, and a continuous integration server.
